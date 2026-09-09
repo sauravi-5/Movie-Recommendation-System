@@ -33,6 +33,3 @@ Movie-Recommendation-System/
 3. Run `movies.ipynb` top to bottom.
 4. When prompted, enter your favorite movie name — the notebook prints the closest recommendations.
 
-## Notes
-
-The notebook currently reads `movies.csv` from a Google Colab path (`/content/movies.csv`). Update this path if running locally.
